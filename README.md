@@ -8,12 +8,16 @@
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40madcoder312)](https://twitter.com/madcoder312)
 [![GitHub](https://img.shields.io/github/followers/coderpros?label=Follow&style=social)](https://github.com/c0derPr0)
 
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/company/coderpros
+
+
 ## About Me
 
 - 💞️ I’m interested in travel & emerging technologies. I've been a digital nomad since 2009.
 - 🌱 I currently hold certifications in Python & ColdFusion.
 - 👀 I’m looking to collaborate on advanced development or architecture projects.
-- 📫 How to reach me: [@CoderProNet](https://twitter.com/CoderProNet) on Twitter or on my [personal website](https://brandonosborne.com].
+- 📫 How to reach me: [@CoderProNet](https://twitter.com/CoderProNet) on Twitter or on my [personal website](https://brandonosborne.com).
 
 <!--
 ## Projects
@@ -30,7 +34,10 @@
 
 ## Contact
 
-- LinkedIn: [linkedin-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/coderpro
 - Twitter: [@CoderProNet](https://twitter.com/CoderProNet)
 - Web: [brandonosborne.com](https://brandonosborne.com)
 
