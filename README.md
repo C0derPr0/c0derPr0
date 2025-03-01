@@ -4,16 +4,17 @@
 [![Years Badge](https://badges.pufler.dev/years/c0derPr0)](https://coderpro.net)
 [![Visits Badge](https://badges.pufler.dev/visits/c0derPr0/c0derPr0)](https://coderpro.net)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/c0derPr0)](https://coderpro.net)
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![LinkedIn][linkedin-shield]][linkedin-url-company]
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40madcoder312)](https://twitter.com/madcoder312)
 [![GitHub](https://img.shields.io/github/followers/coderpros?label=Follow&style=social)](https://github.com/c0derPr0)
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/company/coderpros
+[linkedin-url-company]: https://linkedin.com/company/coderpros
+[linkedin-url-personal]: https://www.linkedin.com/in/coderpro/
 
 
 ## About Me
-
+- ♾️ I've been working with .Net since the first beta was released in 2000.
 - 💞️ I’m interested in travel & emerging technologies. I've been a digital nomad since 2009.
 - 🌱 I currently hold certifications in Python & ColdFusion.
 - 👀 I’m looking to collaborate on advanced development or architecture projects.
@@ -34,10 +35,11 @@
 
 ## Contact
 
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![LinkedIn][linkedin-shield]][linkedin-url-personal]
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/coderpro
+[linkedin-url-personal]: https://linkedin.com/in/coderpro
+
 - Twitter: [@CoderProNet](https://twitter.com/CoderProNet)
 - Web: [brandonosborne.com](https://brandonosborne.com)
 
