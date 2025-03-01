@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @c0derPr0
+# 👋 Hi, I’m Brandon (@c0derPr0)!
 
 [![Updated Badge](https://badges.pufler.dev/updated/c0derPr0/c0derPr0)](https://coderpro.net)
 [![Years Badge](https://badges.pufler.dev/years/c0derPr0)](https://coderpro.net)
