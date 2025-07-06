@@ -32,9 +32,9 @@
 
 ## Skills
 
-- Languages: C#, HTML, JavaScript, Python, SQL, VB.Net
+- Languages: C#, ColdFusion, HTML, JavaScript, Python, SQL, VB.Net
 - Frameworks: .NET, AngularJS, Django
-- Tools: Git, Docker, Kubernetes
+- Tools: Git, Docker, Kubernetes, Visual Studio, JetBrains Rider, VSCode, PyCharm, DataGrip, SQL Server Management Studio
 
 ## Contact
 
