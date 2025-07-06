@@ -1,9 +1,9 @@
 # 👋 Hi, I’m Brandon (@c0derPr0)!
 
-[![Updated Badge](https://badges.pufler.dev/updated/c0derPr0/c0derPr0)](https://coderpro.net)
+<!--[![Updated Badge](https://badges.pufler.dev/updated/c0derPr0/c0derPr0)](https://coderpro.net)
 [![Years Badge](https://badges.pufler.dev/years/c0derPr0)](https://coderpro.net)
 [![Visits Badge](https://badges.pufler.dev/visits/c0derPr0/c0derPr0)](https://coderpro.net)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/c0derPr0)](https://coderpro.net)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/c0derPr0)](https://coderpro.net)-->
 [![LinkedIn][linkedin-shield]][linkedin-url-company]
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40madcoder312)](https://twitter.com/madcoder312)
 [![GitHub](https://img.shields.io/github/followers/coderpros?label=Follow&style=social)](https://github.com/c0derPr0)
