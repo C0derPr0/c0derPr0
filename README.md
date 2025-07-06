@@ -7,6 +7,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url-company]
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40madcoder312)](https://twitter.com/madcoder312)
 [![GitHub](https://img.shields.io/github/followers/coderpros?label=Follow&style=social)](https://github.com/c0derPr0)
+![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=c0derPr0&show_icons=true&theme=radical)
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url-company]: https://linkedin.com/company/coderpros
