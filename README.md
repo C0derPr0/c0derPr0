@@ -20,7 +20,7 @@
 - 💞️ I’m interested in travel & emerging technologies. I've been a digital nomad since 2009.
 - 🌱 I currently hold certifications in Python & ColdFusion.
 - 👀 I’m looking to collaborate on advanced development or architecture projects.
-- 🏢I predominantly work as a Chief Software Ar for [CoderPros](https://github.com/coderpros) - [Website](https://coderpro.net)
+- 🏢 I predominantly work as the Chief Software Architect for [CoderPros](https://github.com/coderpros) - [Website](https://coderpro.net)
 - 📫 How to reach me: [@CoderProNet](https://twitter.com/CoderProNet) on Twitter or on my [personal website](https://brandonosborne.com).
 
 <!--
